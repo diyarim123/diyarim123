@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diyari Mohammed</h1>
+<h1 align="center">Salam Aalaikum 👋, I'm Diyari Mohammed</h1>
 <h3 align="center">A Mern Stack developer from Erbil, Kurdistan Regional</h3>
 
 <center>
